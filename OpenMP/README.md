@@ -1,3 +1,3 @@
 ## OpenMP
 
-Exercise folder for learning and practice speeding up code with OpenMP
+Exercise folders for learning and practice speeding up code with OpenMP
