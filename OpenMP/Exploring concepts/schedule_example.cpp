@@ -1,3 +1,8 @@
+/*
+Simple program demonstrating schedule.
+FROM: https://computing.llnl.gov/tutorials/openMP/
+*/
+
 #include <omp.h>
  #define N 1000
  #define CHUNKSIZE 100
