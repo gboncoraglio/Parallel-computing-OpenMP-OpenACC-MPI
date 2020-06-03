@@ -16,3 +16,5 @@ are the exercises done during the 2020 XSEDE Summer Boot Camp
 - (pgcc -mp -Minfo=mp code.c)
 
 .....
+
+![Alt text](openMP_Logo.png?raw=true "Title")
