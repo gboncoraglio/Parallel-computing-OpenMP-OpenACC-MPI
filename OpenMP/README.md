@@ -6,7 +6,8 @@ The following problems
 - Computing prime numbers
 - Solving the Laplace equations
 
-are the exercises done during the 2020 XSEDE Summer Boot Camp
+are the exercises done during the 2020 XSEDE Summer Boot Camp.
+
 Another great webiste for a tutorial is
 
 https://computing.llnl.gov/tutorials/openMP/
