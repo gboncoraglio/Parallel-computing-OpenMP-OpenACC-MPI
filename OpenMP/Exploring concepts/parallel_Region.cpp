@@ -1,3 +1,8 @@
+/*
+Simple program demonstrating how to get the id of a thread.
+FROM: https://computing.llnl.gov/tutorials/openMP/
+*/
+
 #include <omp.h>
 
  main(int argc, char *argv[]) {
