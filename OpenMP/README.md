@@ -7,6 +7,7 @@ The following problems
 - Solving the Laplace equations
 
 are the exercises done during the 2020 XSEDE Summer Boot Camp
+Another great webiste for a tutorial is https://computing.llnl.gov/tutorials/openMP/
 
 .....
 
