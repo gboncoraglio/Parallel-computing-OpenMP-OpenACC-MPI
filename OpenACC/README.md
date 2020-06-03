@@ -17,4 +17,4 @@ are the exercises done during the 2020 XSEDE Summer Boot Camp
 
 .....
 
-![Alt text](openACC_logo?raw=true "Title")
+![Alt text](openACC_logo.png?raw=true "Title")
