@@ -17,4 +17,4 @@ are the exercises done during the 2020 XSEDE Summer Boot Camp
 
 .....
 
-![Alt text](openMP_Logo?raw=true "Title")
+![Alt text](openMP_Logo.png?raw=true "Title")
